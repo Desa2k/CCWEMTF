@@ -1,0 +1,57 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CC Melee",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CC_Vaxe",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Cutlass",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Spear",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Warhammer",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
+
+
+

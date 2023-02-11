@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CC Ammunition",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "cc_3006_Ammo",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_44_Ammo",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_65Carcano",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_50cal_Ammo",
+            "MaxPriceThreshold": 7,
+            "MinPriceThreshold": 3,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_50AE_Ammo",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Ion_Ammo",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Ssk_Ammo",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

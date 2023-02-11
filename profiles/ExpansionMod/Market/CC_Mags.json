@@ -1,0 +1,188 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CC Magazines",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CC_CLaudiaPistol_Mag",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_DVL10_Mag",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Mac10_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Magshotgun_Mag",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Mors_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Salesmanpistol_Mag",
+            "MaxPriceThreshold": 128,
+            "MinPriceThreshold": 64,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Thompson_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Torx_Mag",
+            "MaxPriceThreshold": 112,
+            "MinPriceThreshold": 56,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_93R_Mag",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Automag_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_Barrett_Mag",
+            "MaxPriceThreshold": 128,
+            "MinPriceThreshold": 64,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_G3_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_VP70_Mag",
+            "MaxPriceThreshold": 128,
+            "MinPriceThreshold": 64,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CC_MK14_Mag",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
