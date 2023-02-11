@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "CC_65Carcano",
+            "ClassName": "CC_65Carcano_ammo",
             "MaxPriceThreshold": 5,
             "MinPriceThreshold": 2,
             "SellPricePercent": -1.0,
